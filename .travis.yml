@@ -8,4 +8,4 @@ script:
 matrix:
   include:
     - python: "3.6"
-      script: "flake8-tabs"
+      script: "flake8"
