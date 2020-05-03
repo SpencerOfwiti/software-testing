@@ -1,0 +1,13 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Spencer",
+      "address": "Kalimoni"
+    },
+    {
+      "id": 2,
+      "name": "Ofwiti",
+      "address": "Juja"
+  }]
+}
