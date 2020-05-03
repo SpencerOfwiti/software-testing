@@ -1,5 +1,5 @@
 import unittest
-from ....sum import App
+from ... import App
 
 json_body = {
 	"customers": [
