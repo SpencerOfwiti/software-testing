@@ -2,3 +2,4 @@ requests
 pytest
 virtualenv==20.0.19
 tox
+flake8
